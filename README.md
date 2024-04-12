@@ -2,6 +2,9 @@
 
 **
 
+![image](https://github.com/Ruchisingh13/Photography_website/assets/141247708/ba84af47-5835-4402-bc47-346a87a09a5b)
+
+
 # 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
 
 **
