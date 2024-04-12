@@ -1,8 +1,32 @@
 # React JS Landing Page Template
 
 **
-
+Home
 ![image](https://github.com/Ruchisingh13/Photography_website/assets/141247708/ba84af47-5835-4402-bc47-346a87a09a5b)
+
+Features
+![image](https://github.com/Ruchisingh13/Photography_website/assets/141247708/9737ddd8-3924-4c06-a9f7-c11e69fea0a2)
+
+About
+![image](https://github.com/Ruchisingh13/Photography_website/assets/141247708/a8c61dba-a227-449e-8a66-03155052e77b)
+
+Services
+![image](https://github.com/Ruchisingh13/Photography_website/assets/141247708/d78e6b2f-a081-4ecc-93fe-b412daa48479)
+
+Gallery
+![image](https://github.com/Ruchisingh13/Photography_website/assets/141247708/1ff3103b-3c87-4740-ad0e-3c81b2d1d5cc)
+
+Team
+![image](https://github.com/Ruchisingh13/Photography_website/assets/141247708/5a5caa63-ea05-4b96-9915-4612ac649d76)
+
+Contact
+![image](https://github.com/Ruchisingh13/Photography_website/assets/141247708/f6f2e889-222c-4a41-b5a3-40e1f2522e6b)
+
+
+
+
+
+
 
 
 # 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
